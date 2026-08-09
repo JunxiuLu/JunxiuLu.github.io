@@ -1,12 +1,5 @@
----
-permalink: /
-title: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
+About me
+------
 I am a senior undergraduate student from Department of Automation / Xinya College, Tsinghua University, majoring in Automation. 
 
 My research interest includes computational imaging, inverse problem, and the relevant biomedical applications.
