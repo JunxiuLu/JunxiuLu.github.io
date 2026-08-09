@@ -13,6 +13,8 @@ I am currently a visiting student at [Hopkins Computational Imaging Group](https
 
 Previously, I have been an undergraduate researcher at [the Laboratory of Imaging and Intelligent Technology](https://media.au.tsinghua.edu.cn/), Department of Automation, Tsinghua University, working with Professor [Jiamin Wu](https://media.au.tsinghua.edu.cn/info/1011/1118.htm). Through this experience, I have worked on light field microscopy and retinal imaging, gaining basic knowledge about computational imaging and some hands-on experiences on signal processing, light field reconstruction and digital adaptive optics(DAO).
 
+In my spare time, I enjoy watercolor painting, visiting museums and exhibitions, and hiking.
+
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
