@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior undergraduate student from Department of Automation / Xinya College, Tsinghua University, majoring in Automation. My research interest includes computational imaging, inverse problem, and the relevant biomedical applications.
+I am a senior undergraduate student from Department of Automation / Xinya College, Tsinghua University, majoring in Automation. 
+
+My research interest includes computational imaging, inverse problem, and the relevant biomedical applications.
 
 I am currently a visiting student at [Hopkins Computational Imaging Group](https://hcig.wse.jhu.edu/), Department of Electrical and Computer Engineering, Johns Hopkins University, working with Professor [Yu Sun](https://sunyumark.github.io/). The goal of my project is to investigate physics-informed generative methods for aberration-aware 3D wide-field fluorescence microscopy, with the goal of extending probabilistic reconstruction toward blind deconvolutions.
 
