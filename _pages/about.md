@@ -1,6 +1,6 @@
 ---
 permalink: /
-title "Junxiu Lu"
+title: "Junxiu Lu"
 author_profile: true
 redirect_from:
   - /about/
