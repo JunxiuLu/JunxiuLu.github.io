@@ -1,3 +1,12 @@
+---
+permalink: /
+title "Junxiu Lu"
+author_profile: true
+redirect_from:
+  - /about/
+  - /about.html
+---
+
 About me
 ------
 I am a senior undergraduate student from Department of Automation / Xinya College, Tsinghua University, majoring in Automation. 
