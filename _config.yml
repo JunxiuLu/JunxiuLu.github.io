@@ -31,7 +31,7 @@ author:
   #employer         : "Tsinghua University"
   #uri              : "https://junxiulu.github.io/"
   #email            : "lu-jx23@mails.tsinghua.edu.cn" 
-  email            : "jlu139@jh.edu"  
+  #email            : "jlu139@jh.edu"  
 
   # Academic websites
   academia         : # URL
@@ -67,7 +67,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/junxiu-lu-4bb00b3aa/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
