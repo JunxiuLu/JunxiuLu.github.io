@@ -18,5 +18,3 @@ I am currently a visiting student at [Hopkins Computational Imaging Group](https
 Previously, I have been an undergraduate researcher at [the Laboratory of Imaging and Intelligent Technology](https://media.au.tsinghua.edu.cn/), Department of Automation, Tsinghua University, working with Professor [Jiamin Wu](https://media.au.tsinghua.edu.cn/info/1011/1118.htm). Through this experience, I have worked on light field microscopy and retinal imaging, gaining basic knowledge about computational imaging and some hands-on experiences on signal processing, light field reconstruction and digital adaptive optics(DAO).
 
 In my spare time, I enjoy doing sports, watercolor painting, listening to music, as well as visiting museums and exhibitions.
-
-(updated: 2026/08/14)
