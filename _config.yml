@@ -23,10 +23,10 @@ repository               : "JunxiuLu/JunxiuLu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile2.jpg"
+  avatar           : "profile3.jpg"
   name             : "Junxiu Lu 卢俊秀"
   pronouns         : # example: "she/her"  
-  bio              : "Undergraduate @ Tsinghua University"
+  bio              : "Undergraduate Student @ Tsinghua University"
   location         : "Baltimore, MD, USA"
   #employer         : "Tsinghua University"
   #uri              : "https://junxiulu.github.io/"
